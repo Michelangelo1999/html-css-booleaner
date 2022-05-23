@@ -11,6 +11,10 @@ body{
     width: 65%;
     margin: 0 auto;
 }
+
+.data-imagesCaption{
+    font-size: 12px;
+}
 /*fine area comune*/
 
 /*header style*/
@@ -22,4 +26,37 @@ body{
     width: 100%;
     background-color: rgb(54, 161, 243);
 }
+
+#nome-giornale{
+    color: aqua;
+}
+
+#author{
+    color: rgb(158, 152, 152)
+}
+
+
 /*Fine header style*/
+
+/*MAIN STYLE*/
+/*gestione immagini (creo una classe comune per l'altezza*/
+.main-images{
+    height: 280px;
+}
+/*end gestione immagini*/
+
+/*gestione main script*/
+#underline{
+    background-color: yellow;
+}
+
+ul{
+    padding: 10px 0 0 20px;
+}
+/*end main script*/
+
+/*gestione tabella*/
+
+/*end gestione tabella*/
+
+
