@@ -1,0 +1,25 @@
+/*
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+*/
+
+/*common*/
+body{
+    width: 65%;
+    margin: 0 auto;
+}
+/*fine area comune*/
+
+/*header style*/
+#logo{
+    height: 50px;
+}
+
+#logo-container{
+    width: 100%;
+    background-color: rgb(54, 161, 243);
+}
+/*Fine header style*/
